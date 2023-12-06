@@ -1,7 +1,7 @@
-# Fuzzing_tool:rocket:
+# Fuzzing_tool :rocket:
 
+![image](https://github.com/melikesenacakir/Fuzzing_tool/assets/115591143/b9b6f6f0-3d62-4e20-a76a-d14210d594d2)
 
-![image](https://github.com/melikesenacakir/Fuzzing_tool/assets/115591143/cf926a01-adb5-4fba-9fce-d81994139042)
 
 
 
