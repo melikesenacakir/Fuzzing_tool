@@ -11,7 +11,8 @@ Usage:
   fuzzer_go [flags]
 
 Flags
-      -h, --help          help for fuzzer_go
+        
+          -h, --help          help for fuzzer_go
           --s int         Scanning speed (default 72)
           --save string   Save output in a file
           --st int        Filters given status code
